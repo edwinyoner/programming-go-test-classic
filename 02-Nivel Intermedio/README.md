@@ -4,11 +4,36 @@ Bienvenido a la sección de **Nivel Intermedio** del proyecto **Programming Go T
 
 ## 🗂️ Contenido del Nivel Intermedio
 
-- **🔹 Paquetes y Módulos**: Cómo organizar el código en paquetes y usar módulos.
-- **🔹 Concurrencia**: Introducción a goroutines y canales.
-- **🔹 Manejo de Errores**: Técnicas para manejar errores y excepciones en Go.
-- **🔹 Interfaces y Tipos Compuestos**: Uso de interfaces y tipos compuestos para construir aplicaciones más robustas.
-- **🔹 Pruebas Unitarias**: Cómo escribir y ejecutar pruebas unitarias en Go.
+### 1. **Punteros**
+
+- **Introducción a punteros**: Conceptos fundamentales sobre punteros.
+- **Pasar punteros a funciones**: Cómo pasar punteros como argumentos a funciones.
+- **Manipulación de valores a través de punteros**: Modificación de valores usando punteros.
+
+### 2. **Estructuras de Datos**
+
+- **Structs**: Definición y uso de structs.
+- **Métodos asociados a structs**: Cómo agregar métodos a structs.
+- **Embedding y composición**: Uso de embedding y composición para construir tipos complejos.
+
+### 3. **Interfaces**
+
+- **Definición y uso de interfaces**: Conceptos básicos de interfaces en Go.
+- **Implementación de interfaces**: Cómo implementar interfaces en tus estructuras.
+- **Uso de la palabra clave `type` y `interface{}`**: Trabajar con tipos y la interfaz vacía.
+- **Polimorfismo en Go**: Cómo se implementa el polimorfismo en Go.
+
+### 4. **Errores y Excepciones**
+
+- **Manejo de errores en Go**: Uso de `error`, `panic`, `recover` para manejar errores.
+- **Creación de errores personalizados**: Cómo crear y manejar errores personalizados.
+- **Buenas prácticas en el manejo de errores**: Estrategias para un manejo eficaz de errores.
+
+### 5. **Paquetes y Módulos**
+
+- **Importación y organización de paquetes**: Cómo importar y organizar paquetes en Go.
+- **Creación de módulos y uso de `go mod`**: Gestión de dependencias y módulos con `go mod`.
+- **Gestión de dependencias**: Técnicas para manejar dependencias en Go.
 
 ## 📦 Recursos
 

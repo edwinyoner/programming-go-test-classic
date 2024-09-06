@@ -4,12 +4,33 @@ Bienvenido a la sección de **Nivel Básico** del proyecto **Programming Go Test
 
 ## 🗂️ Contenido del Nivel Básico
 
-- **🔹 Introducción a Go**: Qué es Go y por qué usarlo.
-- **🔹 Instalación y Configuración**: Cómo instalar Go y configurar tu entorno.
-- **🔹 Primer Programa**: Tu primer programa en Go y cómo ejecutarlo.
-- **🔹 Sintaxis Básica**: Variables, tipos de datos, operadores y estructuras de control.
-- **🔹 Funciones**: Cómo definir y usar funciones en Go.
-- **🔹 Estructuras y Tipos**: Definición y uso de estructuras y tipos personalizados.
+### 1. **Introducción a Go**
+
+- **Historia y características del lenguaje**: Aprende sobre el origen y las principales características de Go.
+- **Instalación y configuración del entorno de desarrollo**: Guía paso a paso para instalar Go y configurar tu entorno de desarrollo.
+- **Primer programa: "Hola, Mundo"**: Tu primer programa en Go y cómo ejecutarlo.
+- **Estructura básica de un programa en Go**: Comprende la estructura fundamental de un programa Go.
+- **Uso de `go run` y `go build`**: Cómo ejecutar y compilar tus programas en Go.
+
+### 2. **Sintaxis Básica**
+
+- **Variables y constantes**: Definición y uso de variables y constantes en Go.
+- **Tipos de datos**: Primitivos, strings, arrays y slices.
+- **Operadores**: Aritméticos, de comparación, lógicos.
+- **Entrada y salida básica**: Uso de `fmt` para entrada y salida de datos.
+
+### 3. **Control de Flujo**
+
+- **Condicionales**: Uso de `if`, `else`, `switch` para control de flujo.
+- **Bucles**: Implementación de bucles `for` y `range`.
+- **Uso de `break`, `continue`**: Control del flujo dentro de bucles.
+
+### 4. **Funciones**
+
+- **Declaración y uso de funciones**: Cómo definir y utilizar funciones.
+- **Parámetros y valores de retorno**: Trabajo con parámetros y valores de retorno en funciones.
+- **Funciones anónimas y closures**: Uso de funciones anónimas y closures en Go.
+- **Uso de `defer`**: Cómo posponer la ejecución de una función.
 
 ## 📦 Recursos
 
@@ -18,6 +39,6 @@ Bienvenido a la sección de **Nivel Básico** del proyecto **Programming Go Test
 
 ## 📂 Estructura del Proyecto
 
-Cada capítulo tiene ejemplos prácticos y ejercicios para ayudarte a comprender los conceptos básicos. Asegúrate de seguir los ejemplos y experimentar con el código.
+Cada capítulo tiene ejemplos prácticos y ejercicios para ayudarte a comprender los conceptos básicos. Sigue los ejemplos y experimenta con el código.
 
 ¡Feliz aprendizaje! 🚀
