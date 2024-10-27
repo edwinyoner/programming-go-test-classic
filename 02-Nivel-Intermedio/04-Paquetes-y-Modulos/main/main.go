@@ -13,6 +13,7 @@ import (
 	"fmt"
 
 	"github.com/edwinyoner/programming-go-test-classic/02-Nivel-Intermedio/04-Paquetes-y-Modulos/calculadora"
+	"github.com/edwinyoner/programming-go-test-classic/02-Nivel-Intermedio/04-Paquetes-y-Modulos/saludo"
 )
 
 func main() {
@@ -20,4 +21,6 @@ func main() {
 	resta := calculadora.Restar(10, 4)
 	fmt.Println("Suma:", suma)
 	fmt.Println("Resta:", resta)
+
+	fmt.Println(saludo.Saludo("Edwin"))
 }
